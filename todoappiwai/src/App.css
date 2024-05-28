@@ -1,0 +1,12 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.customDateTimePicker {
+    width: 100%;
+    max-width: 200px; /* Możesz dostosować szerokość według potrzeb */
+    height: auto;
+    z-index: 1; /* Ustawienie niższego z-index niż innych elementów */
+  }
+  
+  
